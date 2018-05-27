@@ -39,5 +39,5 @@ Source Code:
 •	5 personality templates 
 
 
-More details on this IP will be posted in the months leading up to the Q1 ICO.
+More details on this IP will be posted in the months leading up to the TGE
 	
