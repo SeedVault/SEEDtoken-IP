@@ -1,4 +1,4 @@
-# IP
+# SEEDtoken IP
 Intellectual Property related to the SEED token development
 
 SEED Intellectual Property and Creative Commons
