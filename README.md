@@ -48,5 +48,5 @@ More details on this IP will be posted in the months leading up to the TGE (toke
 Feel free to throw general questions regarding SEED and what to expect in the following months here on GitHub (or GitLab) at  @consiliera (gaby@seedtoken.io) :sunny: 
 **Connect with us elsewhere** 
 - [Follow us on Twitter](https://twitter.com/SEED_token)
-- Always here the latest news first on [Telegram](https://t.me/seedtoken) and [Discord](https://discordapp.com/)
+- Always here the latest news first on [Telegram](https://t.me/seedtoken) and [Discord](https://discord.gg/Suv5bFT)
 	
