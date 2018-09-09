@@ -4,6 +4,9 @@ Intellectual Property related to the SEED token development
 ## About the SEED Token Project
 SEED democratizes AI by offering an open and independent alternative to the monopolies of a few large corporations that currently control conversational user interfaces (CUIs) and AI technologies. SEED's licensed, monetized open-source platform for bots on blockchain supports collaboration and creative compensation that will exceed the proprietary deployments from industry giants. We are also giving users back control of their personal data. Find out more about the SEED Token project at [seedtoken.io](https://seedtoken.io)
 
+## How to contribute - how to get involved
+Go to our **[Developers Garden](developers.seedtoken.io)** to see all featured projects, pick one and fill out the **[Developer Interest Form](https://developers.seedtoken.io/#Developer-Interest-Form)**. If you rather like to discuss ideas before rolling up your sleeves, please come visit our **[Discord channels for developers](https://discord.gg/Suv5bFT)**
+
 ## SEED Intellectual Property and Creative Commons
 
 The SEED ICO includes a license from Botanic Technologies to Seed Vault Ltd. to open-source bot-related patents, source code (clients, servers, and middleware components) that drives natural language processing, audio, and animation via both real-time 3D (OpenGL) and/or real-time video (MP4), and other IP. These resources are critical to the creation of a successful bot community and Botanic Technologies has elected to allow Seed Vault to offer these under a perpetual Creative Commons license for use by developers and users of the SEED token and network.
@@ -47,6 +50,7 @@ More details on this IP will be posted in the months leading up to the TGE (toke
 ## Connect
 Feel free to throw general questions regarding SEED and what to expect in the following months here on GitHub (or GitLab) at  @consiliera (gaby@seedtoken.io) :sunny: 
 **Connect with us elsewhere** 
+- Go to our [Developers Garden](https://developers.seedtoken.io) to see all SEED Community projects and find resources
 - [Follow us on Twitter](https://twitter.com/SEED_token)
 - Always here the latest news first on [Telegram](https://t.me/seedtoken) and [Discord](https://discord.gg/Suv5bFT)
 	
