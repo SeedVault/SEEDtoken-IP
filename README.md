@@ -5,7 +5,7 @@ Intellectual Property related to the SEED token development
 SEED democratizes AI by offering an open and independent alternative to the monopolies of a few large corporations that currently control conversational user interfaces (CUIs) and AI technologies. SEED's licensed, monetized open-source platform for bots on blockchain supports collaboration and creative compensation that will exceed the proprietary deployments from industry giants. We are also giving users back control of their personal data. Find out more about the SEED Token project at [seedtoken.io](https://seedtoken.io)
 
 ## How to contribute - how to get involved
-Go to our **[Developers Garden](developers.seedtoken.io)** to see all featured projects, pick one and fill out the **[Developer Interest Form](https://developers.seedtoken.io/#Developer-Interest-Form)**. If you rather like to discuss ideas before rolling up your sleeves, please come visit our **[Discord channels for developers](https://discord.gg/Suv5bFT)**
+Go to our **[Developers Garden](https://developers.seedtoken.io)** to see all featured projects, pick one and fill out the **[Developer Interest Form](https://developers.seedtoken.io/#Developer-Interest-Form)**. If you rather like to discuss ideas before rolling up your sleeves, please come visit our **[Discord channels for developers](https://discord.gg/Suv5bFT)**
 
 ## SEED Intellectual Property and Creative Commons
 
